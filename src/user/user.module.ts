@@ -4,7 +4,7 @@ import { UserController } from "./user.controller";
 import { userSchema } from "./User.model";
 
 
-import { UserService } from "./User.service";
+import { UserService } from "./user.service";
 
  
 @Module({
